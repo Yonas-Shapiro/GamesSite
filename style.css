@@ -10,5 +10,35 @@
     margin-right: 15px;
     border-style: solid;
     border-color: 000;
+    border-radius: 5px;
+}
+
+#aboutMe {
+    margin-right: 20em;
+    margin-left: 15px;
+}
+
+td {
+    width: 36em;
+    height: 48em;
+    text-align: center;
+    background-color: #252525;
+    padding: 1.5em;
+    margin: 2.5em;
+    border-radius: 2px;
+    
+}
+
+img {
+    align-self: center;
+    display: block;
+    border-radius: 5px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#me {
+    color: #FFFFFF;
 
 }
