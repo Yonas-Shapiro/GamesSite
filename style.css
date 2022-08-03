@@ -1,5 +1,14 @@
 
 
 #title {
-    align-self: center;
+    text-align: center;
+    font-size: 3vw;
+    background-color: #6699FF;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-style: solid;
+    border-color: 000;
+
 }
